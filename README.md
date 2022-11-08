@@ -1,3 +1,9 @@
+I have implemented dark mode as well as show more feature. 
+Here is a video link attached showing the working of this web application. 
+
+https://drive.google.com/file/d/1fu5mW1wh-m0jxoKiPSFI_rQp7rgYClx1/view
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
