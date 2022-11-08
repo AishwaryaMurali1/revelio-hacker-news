@@ -1,0 +1,23 @@
+.filter {
+  font-weight: bolder;
+  font-size: 14px;
+  margin-left: 15px;
+  span {
+    cursor: pointer;
+    &.selected {
+      color: var(--hackerOrange);
+      font-weight: bolder;
+    }
+  }
+  h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  &.footer {
+    font-weight: initial;
+    margin-left: 0px;
+    span {
+      font-weight: initial;
+    }
+  }
+}
